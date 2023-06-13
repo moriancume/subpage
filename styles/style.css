@@ -47,7 +47,7 @@ header {
 }
 
 nav a:hover {
-  display: flex;
+  display: inline-block;
   justify-content: space-around;
   background-color: black;
 }
